@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1602895414 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1602895397 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\color.h
+
+1602888326 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"utn.h"
+
+1602894984 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\menu.h
+
+1602870991 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\utn.h
+	"utn.h"
+
+1602894626 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1602894984 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\servicios.h
+
+1602891625 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+
+1602895253 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\tipo.h
+	<string.h>
+
+1602870991 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1602894448 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"color.h"
+	"servicios.h"
+	"tipo.h"
+	"bicicleta.h"
+
+1602895900 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\bicicleta.h
+
+1602892907 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"DATA.h"
+	"utn.h"
+	"menu.h"
+	"color.h"
+	"servicios.h"
+	"tipo.h"
+	"bicicleta.h"
+
+1602889619 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\data.h
+
+1602890605 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1602894028 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\marca.h
+
+1602895316 source:c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"trabajo.h"
+
+1602893019 c:\users\compu casa\desktop\gimenez.karen.labipp1g\parcial1_bicicleta_karengimenez\trabajo.h
+
